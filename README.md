@@ -22,6 +22,9 @@ Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 
 
 ## Program:
 ```
+name:s.udhaya
+ref: 212225230287
+
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn import datasets,linear_model,metrics
