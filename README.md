@@ -21,7 +21,7 @@ Create the linear regression model and fit.
 Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm cube
 
 ## Program:
-```
+~~~ python
 name:s.udhaya
 ref: 212225230287
 
@@ -59,7 +59,7 @@ plt.axhline(y=0, linewidth=2)
 plt.legend(loc='upper right')
 plt.title('Residual Errors')
 plt.show()
-```
+~~~
 ## Output:
 
 <img width="962" height="722" alt="Screenshot 2026-02-27 104133" src="https://github.com/user-attachments/assets/1eaa2bf3-187f-42ae-8305-d7fd27927f38" />
